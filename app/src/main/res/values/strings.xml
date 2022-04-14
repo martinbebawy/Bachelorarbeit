@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Emotionales Wetter</string>
+    <string name="stimmungserfassung">Stimmungserfassung</string>
+    <string name="auswertung">Auswertung</string>
+    <string name="einstellungen">Einstellungen</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="zurueck">Zurück</string>
+    <string name="speichern">Speichern</string>
+    <string name="weiter">Weiter</string>
+    <string name="auswertung_einstellungen_wetter">Auswertung für Wetter:</string>
+    <string name="auswertung_einstellungen_schoen">schön</string>
+    <string name="einstellungen_schriftgröße">Schriftgröße:</string>
+    <string name="einstellungen_schriftgröße_option">klein</string>
+    <string name="einstellungen_kontrast">Kontrast</string>
+    <string name="einstellungen_kontrast_option">klein</string>
+    <string name="startseite">Zur Startseite</string>
+    <string name="ausloggen">Abmelden</string>
+    <string name="sign_in">Anmelden</string>
+</resources>
